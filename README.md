@@ -100,7 +100,7 @@ Therefore, it can reduce the area require without sacrificing video quality in t
 If a more agressive way to reduce are cost is needed, the pre and post-filtering in angular prediction can be removed inorder to do subsample on current CU in fast intra. 
 But since it is not for software encoder, I put this in future work.
 
-All the HM-16.14 simulation result is in http://video.ee.ntu.edu.tw/~tcm/HM/
+All the HM-16.14 simulation result is in [here](https://github.com/b93901190/fast_intra/tree/master/result)
 
 
 ## HM Simulation
